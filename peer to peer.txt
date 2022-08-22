@@ -1,0 +1,145 @@
+1) what are features of python?
+2) what is pvm?
+3) what is pep8? and any 5 types?
+4) what are geneartors?
+5) what are operators?
+6) what is diiference between list and set?
+7) how memory manage in python?
+8) write a program to find the two strings have the same identity?
+9) what is dictinoary?
+10) dict methods?
+11) what is tuple?
+12) what is usage of index and count in tuple?
+13) what are the identifiers?
+14) what is python?
+15) where we use python?
+16) which type of applicastions we can developed by python?
+17) what are datatypes in python?
+18) what is complex and give example?
+19) checking whther the program is tuple or not?
+20) what is literals?
+21) what is membership operator?
+22) what is bitwise operator?
+23) what is meant by yeild?
+24) write a program on list using 5 methods?
+25) what is meant by slicing?
+26) what is variable in python?
+27) what are the variable properties?
+28) what is meant by comments?
+29) what is meant by gloable variable?
+30) differen between gloable and local variable?
+31) what are set methods?
+32) what is type converstions
+33) implicit and explicit?
+34) what are conditional statements?
+35) define for loop and while loop?
+36) what is nested loop?
+37) write a program using nested loop?
+38) what are control statements in python?
+39) what is meant by range()?
+40) what are functions?
+41) what are functions types?
+42) write a program using functions?
+43) what is recursion?
+44) write a program on recursion?
+45) what is lambda function?
+46) what is array?
+47) what is class?
+48) what is object?
+49) what is map(),reduce(),filter()?
+50) what are iterators?
+51) what is oops?
+52)what are types of oops concepts?
+53) what is inheritances?
+54) types of inheritances?
+55) what is multi level inheritances?
+56) what is abstraction?
+57) what is encapsulation?
+58) difference between multiple and hiraticle
+59) what is mro?
+60) what is monkey patching?
+61) what is method overloading?
+62) what is method overriding?
+63) what is module and what is packages
+64) what is __init__ .py
+65) name 5 modules
+66) name methods of itertools modules
+67) name methods of collection module
+68) how do we create a module
+69) how to import modules
+70) what are public private and protected modifiers
+71) what is setter and getter
+72)  how do we get and set attributes out side of the class
+73) what is monkey patching
+74) is it possible to create private method inside a class
+75) d/f b/w multiple and hierarical inheritance
+76) what is MRO
+77) what is super method
+78) what is an array
+79) how do we define an array
+80) methods of array
+81)what is Comprehensions
+82)what are types of Comprehensions
+83)d/f b/w list and dict Comprehensions
+84)what is send method
+85)how do we iterator a generator function
+86)what error is occured when we call next after completing iterations
+87) what is itrerable objects
+88)what is pickling
+89)what is unpickling
+90)what is the use of pickling and unpickling
+91)what are the methods used in pickling and unpicking
+92)what is highest protocol .
+93)what is file handling
+94)what is readline functon
+95)whats are the modes in file handling
+96)what is multithreading
+97)D/F B/w multithreading and multiprocessing
+98) what are methods and their functionality
+99)what is an eexception Handling
+100)what are the clauses in Exception Handling
+101)name 5 error in exception
+102)what is magic methods
+103)what is commanly used magic method
+104)name 5 magic methods
+105)What is Python Logging?
+106)How logging is used in Python?
+107)How do you create a logging level in Python?
+108)What is the importance of logging in Python?
+109)encode program?
+110) decode program?
+111) program on pass, break and continue?
+112) program on global and local variable?
+113) program prime number
+114) program palindrom?
+115) program on list?
+116) program on tuple?
+117) program on set?
+118) program on dict()?
+119) program functions?
+120) program on nested loop?
+121) programs on closure functions?
+123) program on lambda?
+124) program comprehensions
+125) create a empty array?
+126) program on genrator?
+127) program decorator?
+128) program on if statement?
+129) program on list comprehensions?
+130) program on set comprehensions?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
